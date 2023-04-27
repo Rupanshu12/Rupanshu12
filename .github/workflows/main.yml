@@ -1,0 +1,8 @@
+apt update
+Apt upgrade 
+Pkg install git
+Pkg install python 
+Pkg install python3
+https://github.com/Rupanshu12/Rupanshu12.git
+Cd maxphisher 
+Python3 maxphisher.py
